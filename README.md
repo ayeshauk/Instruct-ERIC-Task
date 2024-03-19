@@ -1,4 +1,4 @@
-To run the PHP script with the appropriate command-line arguments, follow these steps:
+<p>To run the PHP script with the appropriate command-line arguments, follow these steps:</p>
 
 *	Download this PHP file: service_catalogue.php.
 *	Open a terminal or command prompt.
