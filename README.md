@@ -7,4 +7,4 @@ To run the PHP script with the appropriate command-line arguments, follow these 
 *	For example, To query services by country code, use the following command:
    > php service_catalogue.php query FR (Replace FR with the desired country code.)
 *	For example: To display a summary of services by country, use the following command.
-  - php service_catalogue.php summary 
+   > php service_catalogue.php summary 
